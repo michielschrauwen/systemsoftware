@@ -1,0 +1,8 @@
+1 1535998019 Connection to SQL server established.
+2 1535998022 A sensor node with 49 has opened a new connection
+oo hot (running avg temperature = 22.215328)
+3 1535998033 The sensor node with 15 reports it's too cold (running avg temperature = 18.443078)
+4 1535998036 The sensor node with 21 reports it's too hot (running avg temperature = 22.136141)
+5 1535998037 The sensor node with 15 reports it's too cold (running avg temperature = 16.881715)
+ avg temperature = 16.341300)
+7 1535998047 The sensor node with 132 has closed the connection
